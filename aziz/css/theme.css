@@ -205,6 +205,10 @@ li {
 		margin-bottom: -241px;
 		/* 28.10.22:17 */
 	}
+	
+	.mt-70{
+		margin-top: 70px;
+	}
 
 	.mt--100 {
 		margin-top: -23px !important;
