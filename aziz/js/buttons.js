@@ -192,7 +192,7 @@ $(function() {
   
         if (j == 0) {
           // Background style
-          context.fillStyle = '#036300';
+          context.fillStyle = '#252525';
         } else {
           // Foreground style
           context.fillStyle = gradient;
